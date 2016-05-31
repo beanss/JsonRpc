@@ -1,0 +1,1 @@
+2016-04-19 09:33:56	127.0.0.1	Test\Service\Car::getInfoByUid	code:404	msg:Ip:127.0.0.1 ; ErrMsg:method:getInfoByUid params wrong ; Params: [[123,234]]
